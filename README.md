@@ -4,7 +4,7 @@
 A simple Amazon homepage clone built using HTML and CSS.
 
 # 🔗 Live Demo
---> https://hiitsabhijeet.github.io/Amazon-Clone/
+--> https://abhijeetsingh79.github.io/Amazon-Clone/
 
 #  About The Project
 This project is a front-end clone of the Amazon homepage.  
